@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning HTML, CSS and JS
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me email: karandycheva@gmail.com; inst: tristesse166
+
 
 <!---
 LizaKarand/LizaKarand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
