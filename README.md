@@ -1,6 +1,8 @@
+<!---
 - 👋 Hi, I’m @LizaKarand
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning HTML, CSS and JS
+--->
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 
